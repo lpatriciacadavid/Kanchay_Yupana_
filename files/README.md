@@ -1,0 +1,1 @@
+Audio samples to run with [Ppuredata-kanchay_yupana](software/puredata-kanchay_yupana) patch > [folder](samples)
