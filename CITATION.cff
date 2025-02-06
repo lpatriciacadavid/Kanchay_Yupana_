@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Kanchay_Yupana_
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Patricia
+    family-names: Cadavid
+    email: lpcadavid@gmail.com
+    affiliation: Univesity of West of England
+    orcid: 'https://orcid.org/0000-0003-1333-0503'
+repository-code: 'https://github.com/lpatriciacadavid/Kanchay_Yupana_'
+abstract: >-
+  The Kanchay_Yupana// is a NIME created to generate musical
+  rhythms. This instrument is inspired by an Andean device
+  called the Yupana. The Yupana is a physical board, similar
+  to an abacus, made in different sizes and materials. It
+  has a series of carved geometric slots where seeds or
+  pebbles are placed to perform arithmetic calculations, a
+  practice used since pre-colonial times.
+keywords:
+  - NIME
+  - DMI
+  - Music Technology Research
+license: GPL-3.0
