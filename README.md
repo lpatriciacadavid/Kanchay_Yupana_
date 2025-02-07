@@ -14,5 +14,26 @@ The ancient instruments *Yupana* is strictly related to antoher device, the *Khi
 The **Kanchay_Yupana//** consists of a wooden board with 16 cavities. The cavities (arranged in four rows and four columns) hold digital LDR modules, and four of them (arranged in a single column) have installed potentiometers. A Teensy 2.0 microcontroller manages the whole system. The digital LDR modules use photoresistors to measure light intensity, outputting either "low" when there is no light or "high" when there is light. The detection threshold can be adjusted with a potentiometer.  
 This instrument works like a sequencer. Each row represents an instrument, and each column represents a beat (each instrument has four beats). By placing a seed in one of the indentations to cover a sensor, the instrument in that row will be triggered on the beat indicated by the column of that indentation.
 
-### Instruction
+## Instruction
 [Go to the instructions for building the Kanchay_Yupana//.](documentation/instructions/README.md)
+
+## Acknowledgment
+This project has been supported by Cultura Resident, an artistic residency program of the Consorci de Museus de la Comunitat Valenciana in partnership with the Cultural Center of Spain in Santiago Chile.   
+**Special thanks to**: Natasha Pons and all the team of the CCESantiago
+
+## Cite Repository
+```text
+@software{
+    Cadavid_Kanchay_Yupana,
+    author = {Cadavid, Patricia},
+    license = {GPL-3.0},
+    title = {{Kanchay\_Yupana\_}},
+    url = {https://github.com/lpatriciacadavid/Kanchay_Yupana_}
+}
+```
+
+```text
+Cadavid, P. Kanchay_Yupana_ [Computer software]. https://github.com/lpatriciacadavid/Kanchay_Yupana_
+```
+
+See [Documentation](documentation) for related articles
