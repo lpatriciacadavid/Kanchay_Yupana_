@@ -1,3 +1,5 @@
+Patricia Cadavid (website)[https://www.patriciacadavid.net/]
+
 ## Performances, exhibitions, awards, presentations (selected) 
 2024 -  IMA Institute of Media Archeology, Sankt Pölten -Austria  
 2024 – Sound Campus- Ars Electronica Festival, Linz -Austria  

@@ -7,6 +7,8 @@ The ancient instruments *Yupana* is strictly related to antoher device, the *Khi
  
 **Kanchay_Yupana//** complement the **Electronic_Khipu_** like the ancient instruments. Indeed, the **Kanchay_Yupana//** is built to create patterns that can be transformed into rhythms and other sonorities, completing the live performance created with the **Electronic_Khipu_**.  
 
+https://www.patriciacadavid.net/search/label/kanchay_yupana 
+
 ![Kanchay_Yupana// Instrument](documentation/images/Kanchay_Yupana.png)
 
 ## Technical notes 
